@@ -14,7 +14,3 @@
 <img width="750" height="2400" alt="Danke email_scr" src="https://github.com/user-attachments/assets/17583d84-023f-432d-80f7-9cfe9bb31375" />
 <img width="672" height="2401" alt="Welcome to Les Ambassadeurs" src="https://github.com/user-attachments/assets/6853cd24-42a4-4c9f-b519-acd873127389" />
 <img width="647" height="1401" alt="Customer_Birthday" src="https://github.com/user-attachments/assets/8c8aebba-53bd-43b0-9a1e-cf7940bddfc8" />
-
-## Data analysis Dashboards
-See full report here : https://datastudio.google.com/s/mc4q-Yufht8
-<img width="798" height="710" alt="airbnb" src="https://github.com/user-attachments/assets/6460ad28-72a3-4cdf-aad9-1866c366b675" />
