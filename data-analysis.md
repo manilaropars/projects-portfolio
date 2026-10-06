@@ -1,9 +1,9 @@
-# Data Studio Dashboard : airbnb
+# Data Studio Dashboard
 <br>Usecase airbnb - why some hosts are renting more than others
 <br>See full project here : https://datastudio.google.com/s/mc4q-Yufht8
 <img width="798" height="710" alt="airbnb" src="https://github.com/user-attachments/assets/2fddfcda-ab4b-4d82-864f-f21b13a214b7" />
 
-# Power BI Dashboard : the Look
+# Power BI Dashboard
 <br>Usecase The Look - Look into Website Performance Enhancement
 <img width="1476" height="893" alt="The Look_1" src="https://github.com/user-attachments/assets/460f1e24-6cfb-4705-8b34-fbf28c3edec6" />
 <img width="1290" height="892" alt="The Look_2" src="https://github.com/user-attachments/assets/b8c6d676-314b-415e-845f-b1e9c8379967" />
@@ -17,6 +17,7 @@
 <img width="730" height="687" alt="Olist_A-B_testing_2" src="https://github.com/user-attachments/assets/24b488b9-2ead-4f51-a39c-992b52203e6e" />
 
 # Work-Life Balance certification project
+<br>Usecase - analyze the role of work-life balance in well-being.
 <br>See live presentation here : https://www.youtube.com/watch?v=BEGi0OaOz40&feature=youtu.be
 
 
